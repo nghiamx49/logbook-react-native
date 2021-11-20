@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "303001211912",
+    "project_id": "rn-firebase-6fca1",
+    "storage_bucket": "rn-firebase-6fca1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303001211912:android:fc8ca04502ea9b71a12dbd",
+        "android_client_info": {
+          "package_name": "com.mylogbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303001211912-on97ku501odq39akr2dgenm1d94c2beu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mylogbook",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "303001211912-8uevn3bpmk91itd5fql42t22ejs96n17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeo2OuPQpNAzbUzuC9KLTPbRAwtTuc0b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303001211912-8uevn3bpmk91itd5fql42t22ejs96n17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
